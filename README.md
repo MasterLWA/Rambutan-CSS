@@ -7,7 +7,7 @@ Connect with us on our official channels:
    * Twitter: @available soon
    * Discord: available soon
 
-🎉🎨✨ Calling all open-source contributors! 🤝🌟 Join us in embracing the warm and welcoming community of Rambutan-CSS! 🙌🎉 As an open-source project, we invite you with open arms 🤗 to add your creative touch and contribute to our vibrant CSS framework. Together, let's paint the web with a palette of colorful elements, making web apps more flexible and delightful for everyone! 🌈💪💻 Join the Rambutan-CSS revolution today! 🚀✨
+🎉🎨✨ Calling all open-source contributors! 🤝🌟 Join us in embracing the warm and welcoming community of Rambutan-CSS! 🙌🎉 As an open-source project, we invite you with open arms 🤗 to add your creative touch and contribute to our vibrant CSS framework. Together, let's paint the web with a palette of colorful elements, making web apps more flexible and delightful for everyone! 💪💻 Join the Rambutan-CSS revolution today! 🚀✨
 
 ## Getting Started 🚀
 Follow our simple step-by-step guide to quickly incorporate Rambutan-CSS into your projects and unlock its full potential.
